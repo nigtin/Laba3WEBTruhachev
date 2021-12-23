@@ -1,0 +1,121 @@
+body {
+background: url(image/Fon5.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+ background-color: white;
+}
+ 
+
+	
+}
+a:link {
+  color: #497DDD; 
+
+}
+a:visited {
+  color: #EF7D55;
+}
+a:hover {
+  color: #154088; 
+  
+}
+a:active {
+  color: #497DDD; 
+ 
+}
+a { text-decoration: none; }
+
+.podrobno h3 {
+  color: black;
+font-weight: 400;
+font - size: 18px; 
+}
+.podrobno h2 {
+  color: black;
+font-weight: 400;
+font - size: 18px; 
+}
+.podrobno h4 {
+  color: black;
+font-weight: 400;
+font - size: 18px; 
+}
+
+
+
+
+}
+.podrobno p2 {
+color: #484343;
+line-height: 16px;
+font-weight: 400;
+text-align;
+}
+
+
+.podrobno ul {
+
+padding:0 0 0 10px;
+
+}
+
+ 
+
+.podrobno ul li{
+
+list-style:none;
+
+background: url('image/galka.png') left center no-repeat;
+
+padding:4px 0 4px 25px;
+
+}
+
+.contactt input[type=text]{
+   width:200px;
+height: 10px;
+font-style: italic;
+color: rgb(201, 102, 26);
+text-transform: capitalize;
+}
+
+.contactt input[type=email]{
+width:200px;
+height: 10px;
+font-style: oblique;
+color: rgb(108, 70, 117);
+}
+
+.PHOTO img {
+    border: 3px solid #00a8e1;
+   }
+.PHOTO img:hover{
+	border-color: transparent;
+}
+.podrobno p1::first-letter {
+  font-size: 500px;
+}
+.podrobno p1 {
+font-style: italic;
+color: rgb(206, 32, 41);
+line-height: 16px;
+
+
+.carousel {
+  height: 550px !important;
+  width:  900px !important;
+  margin: 0 auto;
+}
+.carousel-inner img {
+  height: 550px !important;
+   width: 800px !important;
+  margin: 0 auto;
+}
+.carousel-indicators li {
+  border-color: #000;
+}
+.carousel-indicators .active {
+  background-color: #000;
+}
